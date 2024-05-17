@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>home</title>
 </head>
-<body>
+<%@ include file="component-folder/allcss.jsp"%>
 
+<%@ include file="component-folder/navbar.jsp" %>
+<body>
+<h1>Welcome to home </h1>
 </body>
 </html>
